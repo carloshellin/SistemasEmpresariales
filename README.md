@@ -7,7 +7,7 @@ Este repositorio almacena las prácticas realizadas durante el curso 2020/2021 p
 Las carpetas son las siguientes:
 
 - _PL1_: Análisis y Diseño de las TIC y de los Sistemas de Información en la empresa HENARSECUR.
-- _Pl2_: Sede electrónica, Plataformas, componentes y tecnologías, Certificados y firma electrónica, Protección de datos, ERPs y CRMs.
+- _PL2_: Sede electrónica, Plataformas, componentes y tecnologías, Certificados y firma electrónica, Protección de datos, ERPs y CRMs.
 
 ## Uso
 
